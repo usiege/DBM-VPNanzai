@@ -1,0 +1,21 @@
+﻿## Interface: 90205
+## X-Min-Interface: 90001
+
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Nanzai|r
+## Title-zhCN:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cFF00FF00楠仔语音包|r
+## Title-zhTW:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0楠仔語音包|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: 楠仔, 听风轻咛
+## Version: v0.1.20220727
+## Notes: https://github.com/usiege/DBM-VPNanzai
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: 楠仔
+## X-DBM-Voice-ShortName: Nanzai
+## X-DBM-Voice-Version: 12
+## X-DBM-Voice-HasCount: 1
+
+DBM-VPNanzai.lua
+
+
+
