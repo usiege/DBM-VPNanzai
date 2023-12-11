@@ -47,9 +47,7 @@ World of Warcraft\_classic_\Interface\addons
 
 - [语音包使用常见问题](https://github.com/usiege/publisher/issues)
 
-- 其他问题可以关注微信公众号“听风轻咛”
-
-![vx.png](https://s2.loli.net/2022/07/27/qtwn15HvKpNl4aD.png)
+- 其他问题可以关注微信公众号“WowCube”
 
 
 ## License
