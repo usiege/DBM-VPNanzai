@@ -13,8 +13,9 @@
 
 - **注意：** 本语音包的所有语音素材版权全部属于楠仔同学。
 
+- CurseForge:
 
-[CurseForge: https://www.curseforge.com/wow/addons/dbm-vpnanzai](https://www.curseforge.com/wow/addons/dbm-vpnanzai)
+[ https://www.curseforge.com/wow/addons/dbm-vpnanzai](https://www.curseforge.com/wow/addons/dbm-vpnanzai)
 
 
 ## 使用方法
